@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2015\Projects\Listasenlazadas\Listasenlazadas\bin\Debug\Listasenlazadas.exe
+c:\users\pc\documents\visual studio 2015\Projects\Listasenlazadas\Listasenlazadas\bin\Debug\Listasenlazadas.pdb
+c:\users\pc\documents\visual studio 2015\Projects\Listasenlazadas\Listasenlazadas\obj\Debug\Listasenlazadas.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\Listasenlazadas\Listasenlazadas\obj\Debug\Listasenlazadas.exe
+c:\users\pc\documents\visual studio 2015\Projects\Listasenlazadas\Listasenlazadas\obj\Debug\Listasenlazadas.pdb
